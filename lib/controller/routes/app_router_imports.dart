@@ -1,0 +1,36 @@
+import 'dart:io';
+
+import 'package:dio/dio.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:futrah/view/screens/add_category/cubit/category_cubit.dart';
+import 'package:futrah/view/screens/add_category/view/screen/add_category_imports.dart';
+import 'package:futrah/view/screens/add_company/cubit/company_cubit.dart';
+import 'package:futrah/view/screens/add_company/view/company_imports.dart';
+import 'package:futrah/view/screens/add_customers/cubit/customers_cubit.dart';
+import 'package:futrah/view/screens/add_customers/view/customers_imports.dart';
+import 'package:futrah/view/screens/add_product/cubit/product_cubit.dart';
+import 'package:futrah/view/screens/add_product/view/product_imports.dart';
+import 'package:futrah/view/screens/auth/cubit/login_cubit.dart';
+import 'package:futrah/view/screens/auth/view/login/login_imports.dart';
+import 'package:futrah/view/screens/auth/view/otp/otp_imports.dart';
+import 'package:futrah/view/screens/auth/view/register/register_imports.dart';
+import 'package:futrah/view/screens/bills/cubit/bills_cubit.dart';
+import 'package:futrah/view/screens/bills/view/bills_imports.dart';
+import 'package:futrah/view/screens/home/cubit/home_cubit.dart';
+import 'package:futrah/view/screens/home/view/screen/home_imports.dart';
+import 'package:futrah/view/screens/pay/cubit/pay_cubit.dart';
+import 'package:futrah/view/screens/pay/view/screen/pay_imports.dart';
+import 'package:futrah/view/screens/profile/cubit/profile_cubit.dart';
+import 'package:futrah/view/screens/profile/view/profile_imports.dart';
+import 'package:futrah/view/screens/profile/view/profile_views/accept_terms_conditions.dart';
+import 'package:futrah/view/screens/profile/view/profile_views/who_we_are.dart';
+import 'package:futrah/view/screens/quick_bill/cubit/quick_pay_cubit.dart';
+import 'package:futrah/view/screens/quick_bill/view/quick_payment_imports.dart';
+import 'package:futrah/view/screens/splash/splash.dart';
+import 'package:futrah/view/screens/subscription_plans/cubit/subscription_cubit.dart';
+import 'package:futrah/view/screens/subscription_plans/view/subscription_import.dart';
+
+part 'app_router.dart';
+part 'navigate_func.dart';
+part 'router_paths.dart';

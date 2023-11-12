@@ -1,0 +1,19 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:futrah/controller/constants/logger.dart';
+import 'package:futrah/controller/constants/size.dart';
+import 'package:futrah/controller/constants/time_format.dart';
+import 'package:futrah/controller/resources/localizations/app_localizations.dart';
+import 'package:futrah/view/screens/bills/cubit/bills_cubit.dart';
+import 'package:futrah/view/screens/bills/cubit/bills_state.dart';
+import 'package:futrah/view/screens/bills/model/single_bill_model/single_bill_model.dart';
+import 'package:futrah/view/screens/bills/view/widgets/bills_list.dart';
+import 'package:futrah/view/screens/bills/view/widgets/single_bil_widgets.dart';
+import 'package:futrah/view/screens/bills/view/widgets/widgets.dart';
+import 'package:futrah/view/widgets/custom_app_bar.dart';
+import 'package:futrah/view/widgets/custom_condition.dart';
+import 'package:futrah/view/widgets/my_text.dart';
+
+part 'bills_screen.dart';
+part 'single_bill/single_bill_body.dart';
+part 'single_bill/single_bill_screen.dart';

@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:futrah/controller/constants/components.dart';
+import 'package:futrah/controller/constants/size.dart';
+import 'package:futrah/controller/resources/localizations/app_localizations.dart';
+import 'package:futrah/controller/resources/theme/colors_manager.dart';
+import 'package:futrah/controller/routes/app_router_imports.dart';
+import 'package:futrah/view/screens/auth/view/widgets/company_login_filed.dart';
+import 'package:futrah/view/screens/auth/view/widgets/login_btn.dart';
+import 'package:futrah/view/screens/profile/cubit/profile_cubit.dart';
+import 'package:futrah/view/screens/profile/cubit/profile_states.dart';
+import 'package:futrah/view/screens/profile/view/widgets/end_profile_screen.dart';
+import 'package:futrah/view/screens/profile/view/widgets/profile_image.dart';
+import 'package:futrah/view/widgets/cancel_button.dart';
+import 'package:futrah/view/widgets/custom_app_bar.dart';
+import 'package:futrah/view/widgets/custom_condition.dart';
+import 'package:futrah/view/widgets/custom_loading.dart';
+import 'package:futrah/view/widgets/my_text.dart';
+
+part 'edit_profile.dart';
+part 'profile_screen.dart';

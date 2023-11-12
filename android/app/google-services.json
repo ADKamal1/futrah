@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "195925313064",
+    "project_id": "futara-a63de",
+    "storage_bucket": "futara-a63de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195925313064:android:23cf2b1d9c0ba6dc9d171d",
+        "android_client_info": {
+          "package_name": "com.metafortech.futara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195925313064-9gisg7b8i02h3osfldens3adnu92qbth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metafortech.futara",
+            "certificate_hash": "ae8b77d701f4d746359b18db0f3d53ab9ac40d2e"
+          }
+        },
+        {
+          "client_id": "195925313064-sca31cpahc3cbvdenavf4mmtadtm3r3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metafortech.futara",
+            "certificate_hash": "ef097da11fd9a816d69d016a0a681b3a92438139"
+          }
+        },
+        {
+          "client_id": "195925313064-7jketlk4su2agvolje6sbkdr0phr8up4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxx5ZvpiQ0v4F_V-6aj1AkcrEBAc4l7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195925313064-7jketlk4su2agvolje6sbkdr0phr8up4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "195925313064-18mii3f88jpgjf6gfq3rb561kd6li4vd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fatwrah",
+                "app_store_id": "3243"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

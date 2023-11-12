@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>195925313064-njlqj0f27sqc8sk7vic17b8vgi0lg4i2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.195925313064-njlqj0f27sqc8sk7vic17b8vgi0lg4i2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>195925313064-1i0pqtboi8aeff7bjkggve0sqlhb100m.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1EqLshYu2K_VZ2T6ApOC6BZhTQ0tBklo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>195925313064</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.metafortech.futara</string>
+	<key>PROJECT_ID</key>
+	<string>futara-a63de</string>
+	<key>STORAGE_BUCKET</key>
+	<string>futara-a63de.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:195925313064:ios:77af153e0dde6c7e9d171d</string>
+</dict>
+</plist>
